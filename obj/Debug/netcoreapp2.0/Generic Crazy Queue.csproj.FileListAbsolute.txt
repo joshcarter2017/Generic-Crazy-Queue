@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\bin\Debug\netcoreapp2.0\Generic Crazy Queue.deps.json
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\bin\Debug\netcoreapp2.0\Generic Crazy Queue.runtimeconfig.json
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\bin\Debug\netcoreapp2.0\Generic Crazy Queue.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\bin\Debug\netcoreapp2.0\Generic Crazy Queue.dll
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\bin\Debug\netcoreapp2.0\Generic Crazy Queue.pdb
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\obj\Debug\netcoreapp2.0\Generic Crazy Queue.csprojResolveAssemblyReference.cache
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\obj\Debug\netcoreapp2.0\Generic Crazy Queue.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\obj\Debug\netcoreapp2.0\Generic Crazy Queue.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\obj\Debug\netcoreapp2.0\Generic Crazy Queue.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\obj\Debug\netcoreapp2.0\Generic Crazy Queue.dll
+C:\Users\joshu\source\repos\Generic Crazy Queue\Generic Crazy Queue\obj\Debug\netcoreapp2.0\Generic Crazy Queue.pdb
